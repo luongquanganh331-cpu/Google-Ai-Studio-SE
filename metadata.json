@@ -1,0 +1,8 @@
+{
+  "name": "Google AI Studio OS SE",
+  "description": "A sophisticated web-based operating system simulation for students, featuring educational tools, a filtered browser, and integrated AI capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
